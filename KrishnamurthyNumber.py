@@ -1,5 +1,7 @@
 """
 Check if number is a Krishnamurthy number.
+A Krishnamurthy number is a number whose sum of the factorial of digits is equal to the number itself.
+Example : 145.
 """
 n = input("Enter the number you want to check : ")
 print(n)
