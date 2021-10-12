@@ -1,5 +1,5 @@
 """
-Check if a year isa a leap year or not.
+Check if a year is a leap year or not.
 Take year in 4 digit form (eg:2015) .
 Call a function and display the appropriate message.
 Author : @ChaitanyaJoshiX
