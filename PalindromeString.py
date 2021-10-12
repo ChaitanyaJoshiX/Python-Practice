@@ -1,6 +1,6 @@
 """
 Create a Palindrome Program for string.
-Take string as user input.
+Take string as input.
 Check if the the reversed string is same as the original.
 Display appropriate output.
 Author : @ChaitanyaJoshiX
