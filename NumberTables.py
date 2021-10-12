@@ -1,4 +1,8 @@
-#This program can print the mathematical table of any number upto n multiples
+"""
+Print the mathematical table of any number upto n multiples.
+Take n as input.
+Display in a tabluar form.
+"""
 num = int(input("Which number's table do want : "))
 mul = int(input("How many multiples do you wish : "))
 print("~~~~~~~~~~~~~~~~~~~~~~~")
