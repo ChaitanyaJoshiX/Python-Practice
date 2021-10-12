@@ -1,7 +1,6 @@
 """
-Takes a integer list as input from user
-Sorts the list Using bubble sort method
-displays list before and after sorting
+Takes a integer list as input from user.
+displays list before and after sorting.
 """
 list =[]
 print("````````````````````````````````````````````````````")
