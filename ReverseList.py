@@ -1,6 +1,7 @@
 """
 WAP to enter a list.
-Reverse the list and return the resulting list.
+Reverse the list 
+return the resulting list.
 Author : @ChaitanyaJoshiX
 """
 inplist = input("Enter list elements separated by space : ")
