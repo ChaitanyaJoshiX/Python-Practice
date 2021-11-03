@@ -1,5 +1,5 @@
 """
-Takes a integer list as input from user.
+Takes a integer list as input.
 displays list before and after sorting.
 """
 list =[]
