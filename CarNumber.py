@@ -1,6 +1,6 @@
 """
-Car Registration Program.
-Enter your Car's Plate number and receive some details related to it.
+Car Registration Program
+Enter your Car's Plate number and receive some details related to it
 """
 statesStr = "Andaman and Nicobar,Andhra Pradesh,Arunachal Pradesh,Assam,Bihar,Chandigarh,Dadra and Nagar Haveli,Daman and Diu,Delhi,Goa,Gujarat,Haryana,Himachal Pradesh,Jammu and Kashmir,Karnataka,Kerala,Lakshadweep,Madhya Pradesh,Maharashtra,Manipur,Meghalaya,Mizoram,Nagaland,Orissa,Pondicherry,Punjab,Rajasthan,Sikkim,Tamil Nadu,Tripura,Uttar Pradesh,West Bengal,"
 regStr = "ANAPARASBRCHDNDDDLGAGJHRHPJKKAKLLDMPMHMNMLMZNLORPYPNRJSKTNTRUPWB" # Reg States as raw data.
