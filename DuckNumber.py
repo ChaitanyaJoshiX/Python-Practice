@@ -1,5 +1,5 @@
 """
-Check if a number is a duck number.
+Check if a number is a duck number
 A number is called a duck number if,
 zeroes are present in it but there should be no zero present at the beginning of the number.
 Example:
