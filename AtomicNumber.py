@@ -1,6 +1,3 @@
-"""
-Start of the program!
-"""
 ElementsList = ["Hydrogen", "Helium", "Lithium", "Beryllium", "Boron"]
 AtomicList = [1, 2, 3, 4, 5]
 MassNumber = ["1", "4", "7", "9", "11"]
